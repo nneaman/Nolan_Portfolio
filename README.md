@@ -25,7 +25,7 @@
 * Used seaborn, matplotlib, pandas, numpy, statistics, and sklearn.
 * Used Random Forest and Logistic Regression Classification models to predict if a student would fall int a low or high-risk group for excessive alcohol consumption.
 
-# [Project 5: Python Price Program] (https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/Python_Basics)
+# [Project 5: Python Price Program](https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/Python_Basics)
 * Master of Data Science Project.
 * Simple project that takes user input and returns a price based on a calculation.
 
