@@ -1,6 +1,7 @@
 # Nolan Neaman's Porfolio
 ## Master's of Data Science projects. 
 
+## [About Me](https://nneaman.github.io/Nolan_Portfolio/about/) | [Contact](
 
 # [Project 1: Marketing Predictive Model](https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/Predictive%20Model%20for%20Marketing%20Campaigns.pdf)
 *	Master of Data Science Project.
