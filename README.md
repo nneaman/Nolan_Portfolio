@@ -1,8 +1,9 @@
 # Nolan Neaman's Porfolio
-## Master's of Data Science projects. 
+ ### Omaha, NE
 
-## [About Me](https://nneaman.github.io/Nolan_Portfolio/about/) | [Contact](
+## [About Me](https://nneaman.github.io/Nolan_Portfolio/about/) | [Contact](https://nneaman.github.io/Nolan_Portfolio/contact/)
 
+# Master's of Data Science projects.
 # [Project 1: Marketing Predictive Model](https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/Predictive%20Model%20for%20Marketing%20Campaigns.pdf)
 *	Master of Data Science Project.
 *	Used seaborn, matplotlib, pandas, numpy, statistics, and sklearn
