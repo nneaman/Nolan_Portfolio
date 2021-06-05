@@ -1,5 +1,5 @@
-# Nolan_Portfolio
-Data Science portfolio. 
+# Nolan Neaman's Porfolio
+## Master of Data Science projects. 
 
 
 # [Project 1: Marketing Predictive Model](https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/Predictive%20Model%20for%20Marketing%20Campaigns.pdf)
@@ -13,6 +13,13 @@ Data Science portfolio.
 *	Used seaborn, matplotlib, pandas, numpy, statistics, and sklearn
 *	Create logistic regression model.
 *	Predicts if a patient has diabetes or not. 
+
+# [Project 3: Weather Program]( https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/API_Connection_Program)
+* Master of Data Science Project.
+* Used requests, json
+* Connect to weather API and return various weather measurements based on zip or city name.
+* First major programming project.
+
 
 
 
