@@ -29,6 +29,16 @@
 * Master of Data Science Project.
 * Simple project that takes user input and returns a price based on a calculation.
 
+# [Project 6: Sentiment Analysis](https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/Sentiment%20Analysis.pdf)
+* Master of Data Science Project.
+* Used numpy, pandas, and vaderSentiment.
+* Load and analyze the sentiment within a small data set.
+
+# [Project 7: Temperature List](https://github.com/nneaman/Data_Science_Portfolio/blob/master/Python/Sentiment%20Analysis.pdf)
+* Master of Data Science Project.
+* Simple project using loops to return largest and smallest temperature inputs.
+
+
 
 
 
