@@ -29,8 +29,8 @@ July 2019 - Feb 2020
 * Mcrosoft Database Fundamentals
 
 # Links:
-LinkedIn: www.linkedin.com/in/nolanneaman 
-Acclaim: https://www.credly.com/users/nolan-neaman.1eb374a7/badges 
+### LinkedIn: www.linkedin.com/in/nolanneaman 
+### Acclaim: https://www.credly.com/users/nolan-neaman.1eb374a7/badges 
 
 ## [Contact](https://nneaman.github.io/Nolan_Portfolio/contact/)
 ## [Return to Main Page](https://nneaman.github.io/Nolan_Portfolio/)
